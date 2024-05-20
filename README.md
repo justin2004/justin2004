@@ -11,6 +11,10 @@ I'm Justin, a former aircraft mechanic turned software engineer with a passion f
 - ⌨️ Command Line User and Toolmaker
 - 🌐 Connecting things with the power of text
 
+### Blog
+
+- If you are interested in any of those things above then you might find [my blog](https://github.com/justin2004/weblog/blob/master/README.md) to be useful.
+
 ### Hobbies
 
 When I'm not developing software, you can find me:
